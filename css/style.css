@@ -218,6 +218,10 @@ footer.nav ul a {
         text-align: center;
         /* ADD SOMETHING HERE */
     }
+    h1 {
+        font-size: 50px;
+        max-width: 100%;
+    }
 }
 
 @media screen and (max-width: 675px) {
